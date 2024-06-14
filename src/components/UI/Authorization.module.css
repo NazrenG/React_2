@@ -1,0 +1,15 @@
+.signDiv {
+  display: flex;
+  flex-direction: column;
+}
+.signInput {
+  padding: 10px;
+  background-color: rgb(202, 210, 224);
+  margin-bottom: 10px;
+  border-radius: 15px;
+  border-color: transparent;
+}
+.signRadioBtn {
+  text-align: left;
+  margin-bottom: 13px;
+}
